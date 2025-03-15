@@ -2,7 +2,7 @@
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://ayybsyya.top/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1250&width=520&lines=print(%22Hello%2C%20World%22);原来浮生万物里,所有的重逢都不如相遇!&center=true&size=27" />
     </a>
   </div>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="240"/>
 </a>
 
-### Hello World!  I am <b>Xenon<a target="_blank" href="javascript:;"></a></b>
+### Hello World!  I am <b>aYYbsYYa<a target="_blank" href="javascript:;"></a></b>
 
 
 - :hearts: Passionate about open source software. 
@@ -95,12 +95,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/aYYbsYYa/count.svg
 
 ---
 
-### 📊 WakaTime
-<!-- [![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b) -->
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aYYbsYYa&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
-<!--START_SECTION:waka-->
+### 📊 Time
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
